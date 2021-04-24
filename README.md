@@ -10,6 +10,7 @@
     pip install labelImg
     labelImg
     ```
+    或是直接下載[exe檔]
     
 3. 把要訓練的圖片放進[剛剛下載的這包解壓縮之後](https://github.com/a13140120a/yolo_v4/blob/main/train.rar)底下的\VOCdevkit\VOC2021\JPEGImages
 4. 開啟labelImg 之後把Change Save Dir 改成[剛剛下載的這包解壓縮之後](https://github.com/a13140120a/yolo_v4/blob/main/train.rar)底下的VOCdevkit\VOC2021\Annotations
