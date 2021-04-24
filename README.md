@@ -2,15 +2,13 @@
 
 1. [下載這個](https://github.com/a13140120a/yolo_v4/blob/main/train.rar)
 
-2. 下載[labelImg](https://github.com/tzutalin/labelImg)
-    1. 下載完之後解壓縮
-    2. 進入目錄開啟cmd
-    3. 依序輸入:
+2. 下載labelImg
+    3. cmd輸入:
     ```js
     pip install pyqt5
     pip install lxml     #已經裝過就不用
-    pyrcc5 -o libs/resources.py resources.qrc
-    python labelImg.py
+    pip install labelImg
+    labelImg
     ```
     
 3. 把要訓練的圖片放進[剛剛下載的這包解壓縮之後](https://github.com/a13140120a/yolo_v4/blob/main/train.rar)底下的\VOCdevkit\VOC2021\JPEGImages
