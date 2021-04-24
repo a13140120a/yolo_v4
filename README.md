@@ -18,5 +18,5 @@
 5. 並且點擊Open dir 開啟 \JPEGImages
 6. 勾選左上選單的View底下的 Auto Save mode
 7. 可以開始拉框框標記了 (快捷鍵 W:拉框框， D:下一張， A:上一張)
-    ![image](picture or gif url)
+    ![image](https://github.com/a13140120a/yolo_v4/blob/main/teach.PNG)
 9. 每標記完一張圖Annotations 底下都會出現一個xml檔案  #檔名不要有中文
