@@ -2,8 +2,8 @@
 
 1. [下載這個](https://github.com/a13140120a/yolo_v4/blob/main/train.rar)
 
-2. 下載labelImg
-    3. cmd輸入:
+2. 下載labelImg  
+    cmd輸入:
     ```js
     pip install pyqt5
     pip install lxml     #已經裝過就不用
