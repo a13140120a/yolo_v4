@@ -2,8 +2,7 @@
 
 1. [下載這個](https://github.com/a13140120a/yolo_v4/blob/main/train.rar)
 
-2. 下載labelImg  
-    * 或是直接下載[exe檔](https://github.com/a13140120a/yolo_v4/blob/main/windows_v1.8.1.rar)
+2. 下載[labelImg](https://github.com/a13140120a/yolo_v4/blob/main/windows_v1.8.1.rar)  
     * [官網載點](https://tzutalin.github.io/labelImg/)
     
 3. 把要訓練的圖片放進[剛剛下載的這包解壓縮之後](https://github.com/a13140120a/yolo_v4/blob/main/train.rar)底下的\VOCdevkit\VOC2021\JPEGImages
