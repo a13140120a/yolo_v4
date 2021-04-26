@@ -11,6 +11,4 @@
 7. 可以開始拉框框標記了 (快捷鍵 W:拉框框， D:下一張， A:上一張)
     ![image](https://github.com/a13140120a/yolo_v4/blob/main/teach.PNG)
 9. 每標記完一張圖Annotations 底下都會出現一個xml檔案  #檔名不要有中文
-10. 執行gen_train_val.py
-11. 執行voc_label.py
-12. [colab上訓練](https://github.com/a13140120a/yolo_v4/blob/main/colab_yolov4.ipynb)
+10. [colab上訓練](https://github.com/a13140120a/yolo_v4/blob/main/colab_yolov4.ipynb)
