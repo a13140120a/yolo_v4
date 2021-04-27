@@ -31,7 +31,7 @@
     * max_batches = 2000乘以類別數量    #但最低不可以低於6000，所以一個類別的話要設定為6000
     * steps = 4800,5400   #max_batches 的80%與90%
     * classes=1  #辨識的類別數量，注意有兩個地方要改，分別是220行跟269行
-    * filter = 18  #改成(classes 的數量+5) 乘以3   
+    * filters = 18  #改成(classes 的數量+5) 乘以3   
 ##備註##  
 [convolutional]  
 size=1  
