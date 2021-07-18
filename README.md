@@ -23,7 +23,7 @@
     * names = obj.names  #標籤名稱
     * backup = backup  #yolo會將訓練結果的權重存在這裡
 3. obj.names:
-    * 放標籤名稱  
+    * 放標籤名稱(換行隔開)   
 4. yolov4-tiny.conv.29 :
     * 預訓練權重檔
 5. yolov4-tiny-myobj.cfg(config檔)需要修改如下:
