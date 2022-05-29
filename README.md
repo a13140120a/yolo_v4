@@ -12,7 +12,7 @@
     ![image](https://github.com/a13140120a/yolo_v4/blob/main/teach.PNG)
 9. 每標記完一張圖Annotations 底下都會出現一個xml檔案  #檔名不要有中文
 10. 執行gen_train_val.py
-11. [colab上訓練](https://github.com/a13140120a/yolo_v4/blob/main/colab_yolov4.ipynb)
+11. [colab上訓練]([https://github.com/a13140120a/yolo_v4/blob/main/colab_yolov4.ipynb](https://github.com/a13140120a/yolo_v4/blob/main/YOLOV4_Train.ipynb))
 # 解說:
 1. voc_label.py
     * classes = ["第一的類別","第二個類別"]
